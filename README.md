@@ -7,7 +7,7 @@ This repository is related to the paper entitle:
 Edward Sandoval<sup>1</sup>, Juan Olmos <sup>2</sup>, Fabio Martínez <sup>1*</sup>
 
 
-<sup>1 </sup> Biomedical Imaging, Vision and Learning Laboratory ([BIVL$^2$ab](https://bivl2ab.uis.edu.co/)), Universidad Industrial de Santander (UIS), Bucaramanga 680002,Colombia.
+<sup>1 </sup> Biomedical Imaging, Vision and Learning Laboratory ([BIVL²ab](https://bivl2ab.uis.edu.co/)), Universidad Industrial de Santander (UIS), Bucaramanga 680002,Colombia.
 
 
 <div align="center">
