@@ -11,7 +11,7 @@ Edward Sandoval<sup>1</sup>, Juan Olmos <sup>2</sup>, Fabio Martínez <sup>1*</s
 
 
 <div align="center">
-  <img src="images/paper-pipeline.pdf" width="100%" height="70%"/>
+  <img src="images/paper-pipeline.png" width="100%" height="70%"/>
 </div><br/>
 
 
